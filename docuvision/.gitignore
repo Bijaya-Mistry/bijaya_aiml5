@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Env and secret files
+.env
+
+# Uploaded/generated files
+uploads/
+*.docx
+*.pdf
+
+# Output folders
+texts/
+images/
+*/images/
+ 

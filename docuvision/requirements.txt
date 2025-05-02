@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+python-docx
+python-dotenv
+pytesseract
+pdf2image
+opencv-python-headless
+fuzzywuzzy
+python-Levenshtein
+Pillow
+openai
+PyMuPDF
+  
